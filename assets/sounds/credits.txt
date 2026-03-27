@@ -1,0 +1,9 @@
+fighttheme.wav = https://pixabay.com/music/video-games-gaming-game-minecraft-background-music-278382/
+worldtheme.mp3 = https://pixabay.com/music/upbeat-that-8-bit-music-322062/
+
+sword_use.mp3  = https://pixabay.com/sound-effects/film-special-effects-slash-21834/ 
+walk.mp3       = https://pixabay.com/sound-effects/film-special-effects-walk-on-dirt-2-291982/
+jump.mp3       = https://pixabay.com/sound-effects/film-special-effects-transition-sfx-whoosh-sound-effect-407576/
+shoot_bowm.mp3 = https://pixabay.com/sound-effects/film-special-effects-arrow-impact-87260/
+
+ChipTone was used for the other sounds (https://sfbgames.itch.io/chiptone)
