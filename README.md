@@ -1,6 +1,6 @@
 # NightsAtPolyrealm-Experimental
 
-<img width="1485" height="754" alt="Screenshot 2026-03-27 002504" src="https://github.com/user-attachments/assets/c1bdf343-528c-41ea-b593-fb35030829ec" />
+<img width="1485" height="754" alt="Screenshot 2026-03-27 002504" src="https://github.com/user-attachments/assets/e60ebef8-c16c-4b9d-ab4a-a9adc9e6e57e" />
 
 ## Overview
 
