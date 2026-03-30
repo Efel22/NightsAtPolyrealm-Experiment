@@ -1,6 +1,6 @@
 # NightsAtPolyrealm-Experimental
 
-
+<img width="1485" height="754" alt="PolyRealm_DayGiantTree" src="./PolyRealm_DayGiantTree.png" />
 
 ## Overview
 
