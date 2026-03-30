@@ -81,7 +81,7 @@ class NightTracker:
 
         # Switch the Music
         stop_sound("music/worldtheme")
-        play_sound("music/fighttheme")
+        play_sound("music/fighttheme", loop=True)
         play_sound("ambient/nighttime")
 
         notif = Text(
@@ -110,7 +110,7 @@ class NightTracker:
 
         # Switch the Music
         stop_sound("music/fighttheme")
-        play_sound("music/worldtheme")
+        play_sound("music/worldtheme", loop=True)
         play_sound("ambient/daytime")
 
         notif = Text(

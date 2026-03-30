@@ -1,6 +1,6 @@
 # NightsAtPolyrealm-Experimental
 
-<img width="1485" height="754" alt="Screenshot 2026-03-27 002504" src="https://github.com/user-attachments/assets/c1bdf343-528c-41ea-b593-fb35030829ec" />
+
 
 ## Overview
 
@@ -45,11 +45,5 @@ Run the project by launching:
 python main.py
 ```
 
-## Contributing
-
-This is currently an active personal project. If you have suggestions or find issues with the framework, feel free to open an Issue or Submit a Pull Request.
-
----
-=======
 # NightsAtPolyrealm-Experiment
 Procedural FPS-RPG in Ursina. Features noise-based biomes, structure-linked spawning, modular AI archetypes, and an XP-driven ability/weapon progression system.
