@@ -111,7 +111,7 @@ class SkySystem:
 
         self.sky = Sky(color=sky_blue)
 
-        self.daytime_cycle_speed  = 1
+        self.daytime_cycle_speed  = 10
         self.astral_dist          = 1000
 
         self.cloud_group_count     = 3

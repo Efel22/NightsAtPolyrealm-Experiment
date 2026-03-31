@@ -179,7 +179,7 @@ class PlayerStats:
 
         # -- Controls info text (disappears after 15 seconds) -----------
         controls_text = Text(
-            text="Controls:\nWASD = Move | SPACE = Jump | L_SHIFT = Sprint\nRight-Click = Melee Attack \n Left-Click = Ranged Attack",
+            text="Controls:\nWASD = Move | SPACE = Jump | L_SHIFT = Sprint\nLeft-Click = Melee Attack \n Right-Click = Ranged Attack",
             parent=camera.ui,
             scale=1.2,
             position=(0, 0.35),  # top-center of the screen

@@ -2,6 +2,14 @@
 
 <img width="1485" height="754" alt="PolyRealm_DayGiantTree" src="./PolyRealm_DayGiantTree.png" />
 
+<iframe 
+  width="1485" 
+  height="754" 
+  src="https://www.youtube.com/embed/0sT9sc2dong" 
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
+
 ## Overview
 
 This project is a first-person action-RPG framework built entirely in Python using the **Ursina Engine**. It aims to integrate procedural world generation mechanics with dynamic entity systems and structured player progression. The core focus is on creating scalable, interconnected gameplay loops (exploration, combat, and growth) within an infinite, noise-driven environment.
