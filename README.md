@@ -2,13 +2,9 @@
 
 <img width="1485" height="754" alt="PolyRealm_DayGiantTree" src="./PolyRealm_DayGiantTree.png" />
 
-<iframe 
-  width="1485" 
-  height="754" 
-  src="https://www.youtube.com/embed/0sT9sc2dong" 
-  frameborder="0" 
-  allowfullscreen>
-</iframe>
+## Video Showcase
+
+[Watch on YouTube](https://youtu.be/0sT9sc2dong)
 
 ## Overview
 
